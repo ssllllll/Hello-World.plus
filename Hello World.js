@@ -1,7 +1,4 @@
-  <script>
-    alert( 'Hello, world!' );
-  </script>
+alert( 'Hello, world!' );
 
-//Also
-
+// Also
 console.log('Hello World');
