@@ -17,5 +17,5 @@ section .rodata
   msg: db "Hello world!", 10
   msglen: equ $ - msg
 
-; nasm -f elf64 -o hello.o Hello\ World.s
+; nasm -f elf64 -o hello.o hello.s
 ; ld -o hello hello.o
