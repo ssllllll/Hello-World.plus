@@ -28,3 +28,4 @@ Start:
 section .data               
     msg db  'Hello world!'  
     msg_len equ $-msg       
+a
