@@ -1,0 +1,2 @@
+set text, 0x00, "Hello World!"
+pnl 0x00
